@@ -39,7 +39,7 @@ Output di atas muncul ketika user memilih menu Ubah Data Koleksi dan memasukkan 
 
 Output ini muncul saat user memilih menu 5) Hapus Koleksi lalu memasukkan ID 12. Program kemudian mengecek daftar koleksi, tetapi tidak menemukan item dengan ID tersebut. Karena itu, sistem menampilkan pesan di dalam kotak “ID tidak ditemukan.”. Hal ini menjadi penanda bahwa penghapusan gagal dilakukan karena data yang dimaksud memang tidak ada dalam koleksi.
 
-<img width="830" height="322" alt="image" src="https://github.com/user-attachments/assets/3215dd07-67e7-47d7-be07-94db18e4f7e2" />
+<img width="434" height="303" alt="image" src="https://github.com/user-attachments/assets/88c7cf43-142f-4562-9e07-56eee35db41b" />
 
 Output ini muncul ketika user memilih menu Hapus Koleksi dan memasukkan ID item yang ingin dihapus, yaitu 11. Program menampilkan nama item terkait (Kemeja Flanel) dan memberikan konfirmasi dengan pertanyaan “Yakin hapus (y/n)”. User kemudian mengetikkan y sebagai tanda persetujuan. Setelah itu, sistem menampilkan pesan “Data dihapus.” dalam kotak, yang berarti item tersebut sudah berhasil dihapus dari daftar koleksi. Proses ini memastikan bahwa penghapusan tidak terjadi secara tidak sengaja, karena user diminta konfirmasi terlebih dahulu sebelum data benar-benar dihapus.
 
