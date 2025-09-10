@@ -2,7 +2,7 @@ Program Manajemen Koleksi Fashion adalah aplikasi berbasis Java yang dibuat untu
 
 <img width="352" height="413" alt="image" src="https://github.com/user-attachments/assets/255a18a5-9bb8-47d5-b67a-a3c491dfbe9a" />
 
-Saat program dijalankan, pertama kali ditampilkan banner judul program dan menu utama. Bagian ini menjadi awal bagi pengguna untuk memilih fitur yang tersedia dalam program.
+Saat program dijalankan, pertama kali ditampilkan judul program dan menu utama. Bagian ini menjadi awal bagi pengguna untuk memilih fitur yang tersedia dalam program.
 
 Fungsi Setiap Menu:
 1. Tambahkan Koleksi Item → input data item baru (nama, kategori, ukuran, warna, brand, tahun).
@@ -15,5 +15,5 @@ Fungsi Setiap Menu:
 
 <img width="416" height="462" alt="image" src="https://github.com/user-attachments/assets/15de34cd-7f95-4832-a8fd-5fcd9211c835" />
 
-
+Pada output tersebut, pengguna memilih menu Tambahkan Koleksi Item sehingga muncul banner bertuliskan "TAMBAHKAN KOLEKSI ITEM" sebagai penanda fitur yang sedang digunakan. Program kemudian meminta input detail koleksi berupa nama, kategori, ukuran, warna, brand/desainer, dan tahun koleksi; misalnya Kemeja Flanel, Atasan, S, Abu-Abu, Uniqlo, 2025. Data yang dimasukkan secara otomatis disimpan ke dalam daftar koleksi yang dikelola program. Setelah proses berhasil, ditampilkan konfirmasi "Item ditambahkan." sebagai bukti bahwa data tersimpan. Terakhir, muncul instruksi "(Enter untuk kembali ke menu utama)" yang berfungsi sebagai jeda agar pengguna bisa membaca hasil sebelum sistem menampilkan menu utama kembali, sehingga alur penggunaan program tetap jelas.
 
