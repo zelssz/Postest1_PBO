@@ -31,6 +31,20 @@ pada output tersebut, user menuliskan keduanya sekaligus (9 Cardigan Rajut), seh
 
 Output di atas muncul ketika user memilih menu Cari (ID/Nama) dan memasukkan input yang benar, yaitu hanya angka ID 9. Program kemudian menampilkan tabel hasil pencarian yang memuat data item dengan ID tersebut. Terlihat bahwa item dengan ID 9 menunjukka detail kategori koleksi tersebut. Tampilan tabel ini menunjukkan bahwa sistem berhasil menemukan dan menampilkan data sesuai input yang diberikan user.
 
-![Uploading image.png…]()
+<img width="434" height="299" alt="image" src="https://github.com/user-attachments/assets/11c2d16f-f861-42e4-87b4-c9f514220a4c" />
 
 Output di atas muncul ketika user memilih menu Ubah Data Koleksi dan memasukkan ID item yang ingin diubah, yaitu 9. Program kemudian menampilkan data lama item tersebut (Cardigan Rajut) dan memberi kesempatan bagi user untuk mengganti setiap atribut. Jika field dibiarkan kosong dan hanya menekan Enter, maka nilai sebelumnya tetap dipertahankan. Pada contoh ini, user mengubah ukuran dari S menjadi L serta warna dari Hijau menjadi Hitam, sedangkan atribut lain tetap sama. Setelah perubahan selesai, program menampilkan pesan konfirmasi “Item berhasil diperbarui.” sebagai tanda bahwa data telah diperbarui dalam sistem.
+
+<img width="830" height="322" alt="image" src="https://github.com/user-attachments/assets/3215dd07-67e7-47d7-be07-94db18e4f7e2" />
+Output ini muncul ketika user memilih menu Hapus Koleksi dan memasukkan ID item yang ingin dihapus, yaitu 11. Program menampilkan nama item terkait (Kemeja Flanel) dan memberikan konfirmasi dengan pertanyaan “Yakin hapus (y/n)”. User kemudian mengetikkan y sebagai tanda persetujuan. Setelah itu, sistem menampilkan pesan “Data dihapus.” dalam kotak, yang berarti item tersebut sudah berhasil dihapus dari daftar koleksi. Proses ini memastikan bahwa penghapusan tidak terjadi secara tidak sengaja, karena user diminta konfirmasi terlebih dahulu sebelum data benar-benar dihapus.
+
+<img width="759" height="354" alt="image" src="https://github.com/user-attachments/assets/132cb449-bb43-40cd-9df8-8df1b7c9af94" />
+<img width="374" height="511" alt="image" src="https://github.com/user-attachments/assets/4d8a2d90-918a-4918-acc0-dbc8f30326d1" />
+
+Output ini ditampilkan ketika user memilih menu Filter Koleksi. Program memberikan pilihan untuk melakukan filter, misalnya berdasarkan kategori. Pada contoh di atas, user memilih opsi “1) Berdasarkan Kategori” lalu mengetikkan kategori Sepatu. Program kemudian menampilkan tabel hasil filter yang hanya berisi item dengan kategori tersebut, yaitu Sneakers Canvas dan Loafers Kulit. Dengan fitur ini, user dapat lebih mudah melihat koleksi tertentu tanpa harus menelusuri seluruh daftar, sehingga pencarian data menjadi lebih cepat dan terarah.
+
+<img width="383" height="396" alt="image" src="https://github.com/user-attachments/assets/661fe86e-0fbc-40ad-9c0c-0af700ccdfab" />
+Ketika user memasukkan pilihan di luar menu 1–7, program mendeteksi bahwa input tidak sesuai dengan daftar menu yang tersedia. Karena itu, program menampilkan pesan peringatan “Menu tidak valid. Coba lagi.” seperti pada gambar. Setelah pesan muncul, program tidak berhenti; ia tetap berada di dalam perulangan utama dan kembali menampilkan Menu Utama, sehingga user bisa memasukkan pilihan yang benar tanpa harus menjalankan ulang aplikasi.
+
+![Uploading image.png…]()
+Output ini muncul saat user memilih menu 7) Keluar dari Program. Program menampilkan pesan penutup berupa kotak berisi teks “Terima kasih. Program selesai.” yang menandakan bahwa seluruh proses telah dihentikan dengan benar. Setelah itu, sistem menampilkan informasi dari Maven berupa status BUILD SUCCESS, total waktu eksekusi program, dan waktu selesai dijalankan. Hal ini menunjukkan bahwa program tidak mengalami error dan berhasil ditutup secara normal sesuai perintah user.
