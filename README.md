@@ -1,6 +1,8 @@
+Program Manajemen Koleksi Fashion adalah aplikasi berbasis Java yang dibuat untuk membantu mengelola data koleksi fashion pribadi seperti pakaian, sepatu, dan aksesori. Program ini menyediakan fitur CRUD serta dilengkapi fitur filter untuk mempermudah pengelompokan koleksi. Dengan adanya program ini, pengguna dapat menyimpan dan menata informasi koleksi secara lebih rapi dan efisien dibanding mencatat manual, sehingga memudahkan pencarian maupun pembaruan data fashion yang dimiliki.
+
 <img width="352" height="413" alt="image" src="https://github.com/user-attachments/assets/255a18a5-9bb8-47d5-b67a-a3c491dfbe9a" />
 
-Saat program dijalankan, pertama kali ditampilkan banner judul aplikasi dan menu utama. Bagian ini menjadi awal bagi pengguna untuk memilih fitur yang tersedia dalam program.
+Saat program dijalankan, pertama kali ditampilkan banner judul program dan menu utama. Bagian ini menjadi awal bagi pengguna untuk memilih fitur yang tersedia dalam program.
 
 Fungsi Setiap Menu:
 1. Tambahkan Koleksi Item → input data item baru (nama, kategori, ukuran, warna, brand, tahun).
