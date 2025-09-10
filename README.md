@@ -12,3 +12,8 @@ Fungsi Setiap Menu:
 5. Hapus Koleksi → menghapus item dari daftar koleksi dengan konfirmasi.
 6. Filter Koleksi → menampilkan data sesuai kategori atau tahun tertentu.
 7. Keluar dari Program → program selesai
+
+<img width="416" height="462" alt="image" src="https://github.com/user-attachments/assets/15de34cd-7f95-4832-a8fd-5fcd9211c835" />
+
+
+
