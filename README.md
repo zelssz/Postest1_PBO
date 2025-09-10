@@ -45,9 +45,9 @@ Output ini muncul ketika user memilih menu Hapus Koleksi dan memasukkan ID item 
 
 <img width="759" height="354" alt="image" src="https://github.com/user-attachments/assets/132cb449-bb43-40cd-9df8-8df1b7c9af94" />
 
-<img width="374" height="511" alt="image" src="https://github.com/user-attachments/assets/4d8a2d90-918a-4918-acc0-dbc8f30326d1" />
+<img width="830" height="475" alt="image" src="https://github.com/user-attachments/assets/4ccc0234-6eaa-4dfc-a29e-90e29dc5ea0c" />
 
-Output ini ditampilkan ketika user memilih menu Filter Koleksi. Program memberikan pilihan untuk melakukan filter, misalnya berdasarkan kategori. Pada contoh di atas, user memilih opsi “1) Berdasarkan Kategori” lalu mengetikkan kategori Sepatu. Program kemudian menampilkan tabel hasil filter yang hanya berisi item dengan kategori tersebut, yaitu Sneakers Canvas dan Loafers Kulit. Dengan fitur ini, user dapat lebih mudah melihat koleksi tertentu tanpa harus menelusuri seluruh daftar, sehingga pencarian data menjadi lebih cepat dan terarah.
+Output ini ditampilkan ketika user memilih menu Filter Koleksi. Program memberikan pilihan untuk melakukan filter, misalnya berdasarkan kategori. Pada output di atas, user memilih opsi “1) Berdasarkan Kategori” lalu mengetikkan kategori Sepatu dan Atasan. Program kemudian menampilkan tabel hasil filter yang hanya berisi item dengan kategori tersebut. Dengan fitur ini, user dapat lebih mudah melihat koleksi tertentu tanpa harus menelusuri seluruh daftar, sehingga pencarian data menjadi lebih cepat dan terarah.
 
 <img width="383" height="396" alt="image" src="https://github.com/user-attachments/assets/661fe86e-0fbc-40ad-9c0c-0af700ccdfab" />
 
