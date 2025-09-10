@@ -53,6 +53,6 @@ Output ini ditampilkan ketika user memilih menu Filter Koleksi. Program memberik
 
 Ketika user memasukkan pilihan di luar menu 1–7, program mendeteksi bahwa input tidak sesuai dengan daftar menu yang tersedia. Karena itu, program menampilkan pesan peringatan “Menu tidak valid. Coba lagi.” seperti pada gambar. Setelah pesan muncul, program tidak berhenti; ia tetap berada di dalam perulangan utama dan kembali menampilkan Menu Utama, sehingga user bisa memasukkan pilihan yang benar tanpa harus menjalankan ulang aplikasi.
 
-![Uploading image.png…]()
+<img width="455" height="658" alt="image" src="https://github.com/user-attachments/assets/5d17d960-d8d3-4874-9500-47c1d3b2b9f7" />
 
 Output ini muncul saat user memilih menu 7) Keluar dari Program. Program menampilkan pesan penutup berupa kotak berisi teks “Terima kasih. Program selesai.” yang menandakan bahwa seluruh proses telah dihentikan dengan benar. Setelah itu, sistem menampilkan informasi dari Maven berupa status BUILD SUCCESS, total waktu eksekusi program, dan waktu selesai dijalankan. Hal ini menunjukkan bahwa program tidak mengalami error dan berhasil ditutup secara normal sesuai perintah user.
