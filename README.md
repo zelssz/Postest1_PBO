@@ -51,7 +51,7 @@ Output ini ditampilkan ketika user memilih menu Filter Koleksi. Program memberik
 
 <img width="383" height="396" alt="image" src="https://github.com/user-attachments/assets/661fe86e-0fbc-40ad-9c0c-0af700ccdfab" />
 
-Ketika user memasukkan pilihan di luar menu 1–7, program mendeteksi bahwa input tidak sesuai dengan daftar menu yang tersedia. Karena itu, program menampilkan pesan peringatan “Menu tidak valid. Coba lagi.” seperti pada gambar. Setelah pesan muncul, program tidak berhenti; ia tetap berada di dalam perulangan utama dan kembali menampilkan Menu Utama, sehingga user bisa memasukkan pilihan yang benar tanpa harus menjalankan ulang aplikasi.
+Ketika user memasukkan pilihan di luar menu 1–7, program mendeteksi bahwa input tidak sesuai dengan daftar menu yang tersedia. Karena itu, program menampilkan pesan peringatan “Menu tidak valid. Coba lagi.” seperti pada gambar. Setelah pesan muncul, program tidak berhenti ia tetap berada di dalam perulangan utama dan kembali menampilkan Menu Utama, sehingga user bisa memasukkan pilihan yang benar tanpa harus menjalankan ulang aplikasi.
 
 <img width="455" height="658" alt="image" src="https://github.com/user-attachments/assets/5d17d960-d8d3-4874-9500-47c1d3b2b9f7" />
 
