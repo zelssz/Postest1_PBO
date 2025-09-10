@@ -35,6 +35,10 @@ Output di atas muncul ketika user memilih menu Cari (ID/Nama) dan memasukkan inp
 
 Output di atas muncul ketika user memilih menu Ubah Data Koleksi dan memasukkan ID item yang ingin diubah, yaitu 9. Program kemudian menampilkan data lama item tersebut (Cardigan Rajut) dan memberi kesempatan bagi user untuk mengganti setiap atribut. Jika field dibiarkan kosong dan hanya menekan Enter, maka nilai sebelumnya tetap dipertahankan. Pada contoh ini, user mengubah ukuran dari S menjadi L serta warna dari Hijau menjadi Hitam, sedangkan atribut lain tetap sama. Setelah perubahan selesai, program menampilkan pesan konfirmasi “Item berhasil diperbarui.” sebagai tanda bahwa data telah diperbarui dalam sistem.
 
+<img width="405" height="269" alt="image" src="https://github.com/user-attachments/assets/88d798f9-a5ee-4243-8ce1-a619ef0c2df0" />
+
+Output ini muncul saat user memilih menu 5) Hapus Koleksi lalu memasukkan ID 12. Program kemudian mengecek daftar koleksi, tetapi tidak menemukan item dengan ID tersebut. Karena itu, sistem menampilkan pesan di dalam kotak “ID tidak ditemukan.”. Hal ini menjadi penanda bahwa penghapusan gagal dilakukan karena data yang dimaksud memang tidak ada dalam koleksi.
+
 <img width="830" height="322" alt="image" src="https://github.com/user-attachments/assets/3215dd07-67e7-47d7-be07-94db18e4f7e2" />
 
 Output ini muncul ketika user memilih menu Hapus Koleksi dan memasukkan ID item yang ingin dihapus, yaitu 11. Program menampilkan nama item terkait (Kemeja Flanel) dan memberikan konfirmasi dengan pertanyaan “Yakin hapus (y/n)”. User kemudian mengetikkan y sebagai tanda persetujuan. Setelah itu, sistem menampilkan pesan “Data dihapus.” dalam kotak, yang berarti item tersebut sudah berhasil dihapus dari daftar koleksi. Proses ini memastikan bahwa penghapusan tidak terjadi secara tidak sengaja, karena user diminta konfirmasi terlebih dahulu sebelum data benar-benar dihapus.
