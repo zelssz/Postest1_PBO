@@ -31,7 +31,7 @@ pada output tersebut, user menuliskan keduanya sekaligus (9 Cardigan Rajut), seh
 
 Output di atas muncul ketika user memilih menu Cari (ID/Nama) dan memasukkan input yang benar, yaitu hanya angka ID 9. Program kemudian menampilkan tabel hasil pencarian yang memuat data item dengan ID tersebut. Terlihat bahwa item dengan ID 9 menunjukka detail kategori koleksi tersebut. Tampilan tabel ini menunjukkan bahwa sistem berhasil menemukan dan menampilkan data sesuai input yang diberikan user.
 
-<img width="434" height="299" alt="image" src="https://github.com/user-attachments/assets/11c2d16f-f861-42e4-87b4-c9f514220a4c" />
+<img width="727" height="432" alt="image" src="https://github.com/user-attachments/assets/040cfb80-f939-4e09-ae8b-ea0874ee62fc" />
 
 Output di atas muncul ketika user memilih menu Ubah Data Koleksi dan memasukkan ID item yang ingin diubah, yaitu 9. Program kemudian menampilkan data lama item tersebut (Cardigan Rajut) dan memberi kesempatan bagi user untuk mengganti setiap atribut. Jika field dibiarkan kosong dan hanya menekan Enter, maka nilai sebelumnya tetap dipertahankan. Pada contoh ini, user mengubah ukuran dari S menjadi L serta warna dari Hijau menjadi Hitam, sedangkan atribut lain tetap sama. Setelah perubahan selesai, program menampilkan pesan konfirmasi “Item berhasil diperbarui.” sebagai tanda bahwa data telah diperbarui dalam sistem.
 
