@@ -1,4 +1,5 @@
 *Deskripsi Program*
+
 Program Manajemen Koleksi Fashion adalah aplikasi berbasis Java yang dibuat untuk membantu mengelola data koleksi fashion pribadi seperti pakaian, sepatu, dan aksesori. Program ini menyediakan fitur CRUD serta dilengkapi fitur filter untuk mempermudah pengelompokan koleksi. Dengan adanya program ini, pengguna dapat menyimpan dan menata informasi koleksi secara lebih rapi dan efisien dibanding mencatat manual, sehingga memudahkan pencarian maupun pembaruan data fashion yang dimiliki.
 
 <img width="352" height="413" alt="image" src="https://github.com/user-attachments/assets/255a18a5-9bb8-47d5-b67a-a3c491dfbe9a" />
@@ -16,5 +17,5 @@ Fungsi Setiap Menu:
 
 <img width="416" height="462" alt="image" src="https://github.com/user-attachments/assets/15de34cd-7f95-4832-a8fd-5fcd9211c835" />
 
-Pada output tersebut, pengguna memilih menu Tambahkan Koleksi Item sehingga muncul banner bertuliskan "TAMBAHKAN KOLEKSI ITEM" sebagai penanda fitur yang sedang digunakan. Program kemudian meminta input detail koleksi berupa nama, kategori, ukuran, warna, brand/desainer, dan tahun koleksi; misalnya Kemeja Flanel, Atasan, S, Abu-Abu, Uniqlo, 2025. Data yang dimasukkan secara otomatis disimpan ke dalam daftar koleksi yang dikelola program. Setelah proses berhasil, ditampilkan konfirmasi "Item ditambahkan." sebagai bukti bahwa data tersimpan. Terakhir, muncul instruksi "(Enter untuk kembali ke menu utama)" yang berfungsi sebagai jeda agar pengguna bisa membaca hasil sebelum sistem menampilkan menu utama kembali, sehingga alur penggunaan program tetap jelas.
+Pada output tersebut, user memilih menu Tambahkan Koleksi Item sehingga muncul judul bertuliskan "TAMBAHKAN KOLEKSI ITEM" sebagai penanda fitur yang sedang digunakan. Program kemudian meminta input detail koleksi berupa nama, kategori, ukuran, warna, brand/desainer, dan tahun koleksi. Seperti pada output tersebut yaitu Kemeja Flanel, Atasan, S, Abu-Abu, Uniqlo, 2025. Data yang dimasukkan secara otomatis disimpan ke dalam daftar koleksi yang dikelola program. Setelah proses berhasil, ditampilkan konfirmasi "Item ditambahkan." sebagai bukti bahwa data telah tersimpan. Terakhir, muncul instruksi "(Enter untuk kembali ke menu utama)" yang berfungsi sebagai jeda agar user bisa membaca hasil sebelum sistem menampilkan menu utama kembali, sehingga alur penggunaan program tetap jelas.
 
